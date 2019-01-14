@@ -1,0 +1,15 @@
+{
+    "name": "facetone",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "development",
+            "endpoint": "http://localhost:3978/api/messages",
+            "appId": "8785c381-52b1-4831-bdea-1151aaaf33c1",
+            "appPassword": "mnclgRHD66($wtGNYV986[)",
+            "id": "facetone"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0"
+}
